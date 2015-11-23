@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "csv_operating.py", line 1, in <module>
+    ﻿import wx
+ImportError: No module named wx
